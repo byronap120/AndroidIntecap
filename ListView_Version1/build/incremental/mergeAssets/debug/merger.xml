@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Dell\Documents\CursoAndroid\ListView_Version1Project\ListView_Version1\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Dell\Documents\CursoAndroid\ListView_Version1Project\ListView_Version1\src\debug\assets" />
+    </dataSet>
+
+</merger>
